@@ -10,9 +10,6 @@
 <div align="center">
   <a href="./woocommerce-contributions.md">
     <img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white" alt="WooCommerce"/>
-    <br/>
-    <strong>Led development of WooCommerce's flagship Product Collection block</strong>
-    <br/>
     80+ merged PRs • 130+ code reviews • Used by millions of stores
     <br/>
     <em>View my detailed contributions →</em>

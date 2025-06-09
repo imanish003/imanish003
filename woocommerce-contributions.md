@@ -7,6 +7,7 @@ As a Senior JavaScript Engineer at Automattic (Woo Division) from September 2022
 ## GitHub Contributions
 
 - **[View all my Pull Requests](https://github.com/woocommerce/woocommerce/pulls?q=is:pr+author:imanish003+is:closed)** — Over 80+ merged PRs to WooCommerce Core.
+  - **[View on (Archived) WooCommerce Blocks Repository](https://github.com/woocommerce/woocommerce-blocks/pulls?q=is:pr+is:closed+author:imanish003+)** — Over 60+ merged PRs.
 - **[View my Code Review Contributions](https://github.com/woocommerce/woocommerce/pulls?q=is:pr+reviewed-by:imanish003+is:closed+)** — Over 130+ code reviews, providing critical feedback and improving code quality.
 
 ## Key Achievements

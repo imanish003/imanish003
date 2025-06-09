@@ -2,6 +2,7 @@
 
 <a href="https://www.linkedin.com/in/imanish003" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://www.toptal.com/resume/manish-menaria" target="_blank"><img src="https://img.shields.io/badge/Toptal-333333?style=for-the-badge&logo=toptal&logoColor=white" alt="Toptal"/></a>
+<a href="https://stackoverflow.com/users/4185515/manish-menaria" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow"/></a>
 <a href="mailto:mmenaria003@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 
 ## 🌟 Open Source Impact

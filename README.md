@@ -22,8 +22,6 @@
 
 I'm a Software Engineer with over 8 years of experience dedicated to architecting and delivering high-impact, user-centric web applications. My passion lies in building software with clean, maintainable code and leading teams to successfully deliver complex projects. I specialize in cutting-edge frontend development while also thriving on full-stack challenges.
 
-- 🔭 I’m currently looking for new opportunities as a Senior/Lead Software Engineer.
-
 ## 🛠️ My Tech Stack
 
 ### Frontend

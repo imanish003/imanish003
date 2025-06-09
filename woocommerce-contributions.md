@@ -2,18 +2,18 @@
 
 ## Overview
 
-As a Senior JavaScript Engineer at Automattic (Woo Division) from September 2022 to April 2025, I spearheaded critical initiatives for WooCommerce Blocks, transforming the platform's visual editing capabilities. I led development of the Product Collection block from concept to stable release, which became WooCommerce's flagship solution replacing ten legacy blocks and achieving the highest adoption rate in the ecosystem. I designed and implemented an extensibility framework that empowered third-party developers to create custom product collections, authored comprehensive documentation, and resolved complex technical challenges. My work directly improved the merchant experience by enabling them to create sophisticated, conversion-optimized online stores without requiring coding knowledge.
+As a Senior JavaScript Engineer at Automattic (Woo Division) from September 2022 to April 2025, I spearheaded critical initiatives for WooCommerce Blocks, transforming the platform's visual editing capabilities. I led development of the [Product Collection block](https://woocommerce.com/document/woocommerce-store-editing/customizing-shop-page-catalog/product-collection-block/) from concept to stable release, which became WooCommerce's flagship solution replacing ten legacy blocks and achieving the highest adoption rate in the ecosystem. I designed and implemented an extensibility framework that empowered third-party developers to create custom product collections, authored [comprehensive documentation](https://developer.woocommerce.com/docs/block-development/product-collection-block/register-product-collection), and resolved complex technical challenges. My work directly improved the merchant experience by enabling them to create sophisticated, conversion-optimized online stores without requiring coding knowledge.
 
 ## GitHub Contributions
 
-- **[View all my Pull Requests](https://github.com/woocommerce/woocommerce/pulls?q=is:pr+author:imanish003+is:closed)** — Over 80+ merged PRs to WooCommerce Core
+- **[View all my Pull Requests](https://github.com/woocommerce/woocommerce/pulls?q=is:pr+author:imanish003+is:closed)** — Over 80+ merged PRs to WooCommerce Core.
 - **[View my Code Review Contributions](https://github.com/woocommerce/woocommerce/pulls?q=is:pr+reviewed-by:imanish003+is:closed+)** — Over 130+ code reviews, providing critical feedback and improving code quality.
 
 ## Key Achievements
 
 ### Product Collection Block
 
-I served as the Directly Responsible Individual (DRI) for the Product Collection block, guiding its development from experimental to beta (August 2023) and finally to stable release (June 2024). This strategic block became the default solution in WooCommerce 9.5, replacing ten older blocks:
+I served as the Directly Responsible Individual (DRI) for the Product Collection block, guiding its development from experimental to beta (August 2023) and finally to stable release (June 2024). This strategic block became the [default solution in WooCommerce 9.5](https://developer.woocommerce.com/2024/11/19/product-collection-block-the-new-default/), replacing ten older blocks:
 
 - All Products
 - Best Selling Products
@@ -41,7 +41,7 @@ The block's adoption metrics confirm its success, **becoming the most widely use
 
 ### Extensibility Framework
 
-I designed and implemented an extensibility framework for the Product Collection block, enabling third-party developers to create custom collections. This included exposing the necessary APIs and creating [comprehensive documentation](https://developer.woocommerce.com/docs/block-development/product-collection-block/register-product-collection), empowering third-party developers to build solutions like "Frequently Bought Together," "Recently Viewed," and other custom product displays.
+I [designed and implemented](https://github.com/woocommerce/woocommerce/pull/48141) an extensibility framework for the Product Collection block, enabling third-party developers to create custom collections. This included exposing the necessary APIs and creating [comprehensive documentation](https://developer.woocommerce.com/docs/block-development/product-collection-block/register-product-collection), empowering third-party developers to build solutions like "Frequently Bought Together," "Recently Viewed," and other custom product displays.
 
 ## Notable Pull Requests
 
@@ -49,6 +49,11 @@ I designed and implemented an extensibility framework for the Product Collection
 
   - **Description:** Created the extensibility API allowing third-party developers to register custom product collections.
   - **Impact:** Enabled a rich ecosystem of custom product display solutions.
+
+- **[Product Collection: Integrate Customer Effort Score Feedback Modal](https://github.com/woocommerce/woocommerce/pull/52874)**
+
+  - **Description:** Added a feedback mechanism to collect user insights.
+  - **Impact:** Created a direct channel for user feedback to drive improvements.
 
 - **[Product Collection: Enable Context-Aware Previews](https://github.com/woocommerce/woocommerce/pull/49796)**
 
@@ -65,11 +70,6 @@ I designed and implemented an extensibility framework for the Product Collection
 
   - **Description:** Implemented a better user experience when no products match filter criteria.
   - **Impact:** Enhanced user experience and provided actionable feedback.
-
-- **[Product Collection: Integrate Customer Effort Score Feedback Modal](https://github.com/woocommerce/woocommerce/pull/52874)**
-
-  - **Description:** Added a feedback mechanism to collect user insights.
-  - **Impact:** Created a direct channel for user feedback to drive improvements.
 
 - **[Product Collection: Add "Related by" setting to Related Products collection](https://github.com/woocommerce/woocommerce/pull/52580)**
 

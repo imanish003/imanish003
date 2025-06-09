@@ -1,15 +1,15 @@
 # Hi there, I'm Manish Menaria 👋
 
-<a href="https://www.linkedin.com/in/imanish003" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://www.toptal.com/resume/manish-menaria" target="_blank"><img src="https://img.shields.io/badge/Toptal-333333?style=for-the-badge&logo=toptal&logoColor=white" alt="Toptal"/></a>
-<a href="https://stackoverflow.com/users/4185515/manish-menaria" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow"/></a>
+<a href="https://www.linkedin.com/in/imanish003" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.toptal.com/resume/manish-menaria" target="_blank"><img src="https://img.shields.io/badge/Toptal-204ecf?style=for-the-badge&logo=toptal&logoColor=white" alt="Toptal"/></a>
+<a href="https://stackoverflow.com/users/4185515/manish-menaria" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-e7700d?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow"/></a>
 <a href="mailto:mmenaria003@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 
 ## 🌟 Open Source Impact
 
 <div align="center">
   <a href="./woocommerce-contributions.md">
-    <img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white" alt="WooCommerce"/>
+    <img src="https://img.shields.io/badge/WooCommerce-873eff?style=for-the-badge&logo=woocommerce&logoColor=white" alt="WooCommerce"/>
     <p>
     140+ merged PRs • 130+ code reviews • Used by millions of stores
     </p>
@@ -71,5 +71,5 @@ I'm a Software Engineer with over 8 years of experience dedicated to architectin
     <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
     <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress"/>
-    <img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white" alt="WooCommerce"/>
+    <img src="https://img.shields.io/badge/WooCommerce-873eff?style=for-the-badge&logo=woocommerce&logoColor=white" alt="WooCommerce"/>
 </p>
